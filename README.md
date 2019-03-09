@@ -1,4 +1,4 @@
-# ML_Data
+# ML_Excercise
 Linear Regression (Single Variate and Multi Variate)
 
 Presented By:
